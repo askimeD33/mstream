@@ -1,0 +1,27 @@
+{
+  "latestVersion": "1.1.0",
+  "minimumSupportedVersion": "1.1.0",
+  "mandatory": true,
+  "history": [
+    {
+      "version": "1.1.0",
+      "status": "supported",
+      "releaseDate": "2026-07-21",
+      "downloadUrl": "https://dolibarr.ns8.icu/client/updates/MStreamV1.1.0.zip",
+      "hash": "721ed9b48a20633983965586fbe6496fa540053cf3f8aeaf9d92e5c0f9070558",
+      "releaseNotes": [
+        "Bug fixes.",
+        "Improved updater."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "status": "supported",
+      "releaseDate": "2026-03-05",
+      "downloadUrl": "https://example.com/downloads/MyApp-2.0.0.exe",
+      "releaseNotes": [
+        "Major UI redesign."
+      ]
+    }
+  ]
+}
