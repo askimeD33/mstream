@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "minimumSupportedVersion": "1.1.0",
+  "latestVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
   "mandatory": true,  
   "baseDownloadUrl": "https://github.com/askimeD33/mstream/releases/download/assets/MStream-latest.zip",
   "hash": "b0a00ce975a3d34f45c9f5d1b2972d4da974a9af8e7d4cf04ccf6fd701b95bd0",
