@@ -11,7 +11,7 @@
       "releaseDate": "2026-08-23",
       "downloadUrl": "https://github.com/ask",
       "hash": "314fadce7dec1e3e0270fc75c04b328d76dc508b6165096b0d0f02f330b8f7cd",
-      "default_server": 2,
+      "default_server": 1,
       "releaseNotes": [
         "Bug fixes.",
         "Improved updater."
