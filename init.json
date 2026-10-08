@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.2.0",
   "minimumSupportedVersion": "1.1.0",
   "mandatory": false,  
-  "baseDownloadUrl": "https://github.com/askimeD33/mstream/releases/download/V1.1/MStream-all-v1.1.0.zip",
-  "hash": "f5949a2dbdfc5729db4b6f39738b1f0b2b24082e83005be1493e68700943d82d",
+  "baseDownloadUrl": "https://github.com/askimeD33/mstream/releases/download/V1.2.0/MStream-all-v1.2.0.zip",
+  "hash": "841b16818b82bcb45805b90a3418f1393ff713eb8d38d9cad1a51df752818c07",
   "history": [
     {
       "version": "1.2.0",
       "status": "supported",
       "releaseDate": "2026-10-07",
-      "downloadUrl": "https://github.com/askimeD33/mstream/releases/download/V1.1/MStreamV1.1.0.zip",
-      "hash": "c4f79541111a745d177bd74eeb2b58ccdc5e7ed1bd7d5572893dcb44efd2ccdb",
+      "downloadUrl": "https://github.com/askimeD33/mstream/releases/download/V1.2.0/MStreamV1.2.0.zip",
+      "hash": "046d801b7fb166a1442d1602a3e52aa349ef70e67bf57c8efa60eb8698cf39ad",
       "default_server": 1,
       "releaseNotes": [
         "Bug fixes."
